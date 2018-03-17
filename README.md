@@ -15,7 +15,7 @@ swimming fishes have 6 colors
 *about this libraty
 
  This Python Library offer you to draw 8bit-like graphics that be composed of textcharacters 
- including text-graphics characyers(herat, circle, triangle etc).
+ including text-graphics characters(herat, circle, triangle etc).
  
 *to use
 
