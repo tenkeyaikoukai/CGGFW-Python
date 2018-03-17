@@ -4,13 +4,13 @@
 *understanding this game engine with playing demos
 
 blatterspiel.py
- falling leaves demo
+falling leaves demo
 snowfall.py
- snowfall demo
+snowfall demo
 lifegame80.py
- 8bit-like Conway's game of life
+8bit-like Conway's game of life
 aquarium.py
- swimming fishes have 6 colors
+swimming fishes have 6 colors
  
 *about this libraty
 
